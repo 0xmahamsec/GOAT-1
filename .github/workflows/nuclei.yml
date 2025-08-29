@@ -93,8 +93,8 @@ jobs:
           cat > temp_creds.yml << EOF
           telegram:
             - id: "tel"
-              telegram_api_key: "$TELEGRAM_API_KEY"
-              telegram_chat_id: "$TELEGRAM_CHAT_ID"
+              telegram_api_key: "8304593620:AAETYNUNvb7BOHvp8ODoFwElslU4nwLkSgw"
+              telegram_chat_id: "1145990232"
               telegram_format: "{{data}}"
               telegram_parsemode: "Markdown"
           EOF
