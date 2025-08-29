@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration
-GITHUB_TOKEN="GITHUB_TOKEN"
-GITHUB_REPO="the5orcerer/git-auto"
+GITHUB_TOKEN="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"
+GITHUB_REPO="0xmahamsec/GOAT-1"
 GITHUB_API="https://api.github.com"
 
 # Colors for output
